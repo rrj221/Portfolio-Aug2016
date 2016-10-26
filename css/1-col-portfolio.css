@@ -17,8 +17,10 @@ footer {
 }
 
 .photo {
-	height: 285.6px;
-	width: 251.4px;
+/*	height: 285.6px;
+	width: 251.4px;*/
+	height: 168.75px;
+	width: 300px;
 	margin: 0 auto;
 	display: block;
 }
